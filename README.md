@@ -1,5 +1,5 @@
 # raytracer
-Raytraced Image Generator inspired by raytracing in one weekend by Peter Shirley  
+Raytraced Image Generator built from working through raytracing in one weekend by Peter Shirley  
 
 Author: Sebastien Dundas  
 Project: Raytraced Image Generator  
